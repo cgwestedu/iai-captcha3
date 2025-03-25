@@ -1,0 +1,8 @@
+tensorflow
+pillow
+imutils
+numpy
+opencv-python
+lxml
+scikit-learn
+keras

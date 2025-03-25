@@ -1,0 +1,14 @@
+.idea/
+.vim/
+*.pyc
+*.log
+*.bak
+.venv/
+.__pycache__/
+.DS_Store
+__pycache__/
+
+**/models/
+**/training_data/
+**/validation_data/
+
